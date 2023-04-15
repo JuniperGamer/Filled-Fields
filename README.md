@@ -1,6 +1,7 @@
 # Filled-Fields
 This is a minecraft JAVA (datapack) mod. This is a DATA PACK, meaning you must drag the Filled Fields.zip into the Minecraft window.
-
+The mod adds 2 new biomes called Lush Field-warm and Lush Field-cold. Both of these biomes feature their own distinct attributes and mobs that spawn.
+It basically brings lush caves to the surface with new things in them.
 This is a pretty basic "mod" and doesn't require fabric or Forge. (I believe this is compatible with minecraft 19.4)
 
 # Installation
